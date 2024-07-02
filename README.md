@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harsh Chauhan</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshchauhan01&label=Profile%20views&color=0e75b6&style=flat" alt="harshchauhan01" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Android Development**
 
-- 📫 How to reach me **chauhanharsh7534@gmail.com**
+- 📫 How to reach me : **chauhanharsh7534@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
