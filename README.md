@@ -5,8 +5,8 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 📫 How to reach me : **chauhanharsh7534@gmail.com**
-https://harshchauhan01.github.io/Portfolio//
+- 📫 How to reach me : **chauhanharsh7534@gmail.com**,
+**https://harshchauhan01.github.io/Portfolio//**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harshchauhan7534" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshchauhan7534" height="30" width="40" /></a>
