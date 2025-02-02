@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh Chauhan</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshchauhan01&label=Profile%20views&color=0e75b6&style=flat" alt="harshchauhan01" /> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Game Development**
 
 - 📫 How to reach me : **chauhanharsh7534@gmail.com**,
 **https://harshchauhan01.github.io/Portfolio//**
