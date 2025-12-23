@@ -1,0 +1,21 @@
+name: Keep Render Apps Alive
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"  
+  workflow_dispatch:        
+
+jobs:
+  ping-websites:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Ping Render Websites
+        run: |
+          echo "Pinging Render apps..."
+
+          curl -s https://harshchauhan.onrender.com > /dev/null
+          curl -s https://m2m.onrender.com > /dev/null
+          curl -s https://aspirexbackend.onrender.com > /dev/null
+
+          echo "Done."
